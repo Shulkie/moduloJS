@@ -1,0 +1,22 @@
+
+
+hago modulitos de js y clo llamo con una const 
+
+no es comun hacer modulos sueltos 
+
+module.exports (variable global, se define por archivo y va a existir por cada archivo y pedir que queremos que exporte)
+
+
+module.exports = 2;
+
+para node no necesito poner el .js en el archivo no es obligatorio
+
+
+por defalutl te agarra todo lo que sea index
+
+y ademas de eso puedo importar las funciones o lo qe=ue sea llamandolas as objetos
+
+las guardo en una variabLE A cada operacion que puede estar en diferentes modulos y el index las agrupa
+
+y las ejecuta
+
